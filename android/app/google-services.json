@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792224428542",
+    "firebase_url": "https://igraj-8f830.firebaseio.com",
+    "project_id": "igraj-8f830",
+    "storage_bucket": "igraj-8f830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792224428542:android:41ba6bd3dfcb56df2f10af",
+        "android_client_info": {
+          "package_name": "com.maddevelopment.igraj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792224428542-193m3e4f05phdjntd44i4aisqpj9ebcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maddevelopment.igraj",
+            "certificate_hash": "f6a49c315f016d255fa82183cb39cedb6a0acde0"
+          }
+        },
+        {
+          "client_id": "792224428542-q3ied752kd65svt27dgphms5mccvtram.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcG2tMlukJ5hoqaAI_rJDTQhafNN52qRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792224428542-q3ied752kd65svt27dgphms5mccvtram.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
